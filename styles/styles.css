@@ -55,13 +55,19 @@
     background-size: cover;
  }
  #slides .slide_2 {
-    background: #003459;
+    background-image: url(https://images.unsplash.com/photo-1635776062360-af423602aff3?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
  }
  #slides .slide_3 {
-    background: #007EA7;
+    background-image: url(https://images.unsplash.com/photo-1635776062043-223faf322554?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
  }
  #slides .slide_4 {
-    background: #00A8E8;
+    background-image: url(https://images.unsplash.com/photo-1635776063328-153b13e3c245?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
  }
  #controls {
     margin: -180px 0 0 0;
